@@ -30,7 +30,7 @@ bxploit  (aka Bhavan RBN)
 
 <div align="center">
 
-<img src="assets/red-team-fundamentals.svg" alt="Red team fundamentals: recon, initial access, privilege escalation, lateral movement, persistence, reporting" width="100%" />
+<img src="/red-team-fundamentals.svg" alt="Red team fundamentals: recon, initial access, privilege escalation, lateral movement, persistence, reporting" width="100%" />
 
 </div>
 
