@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZyZW81OWg1dnZmc2JjdHV2ajFjNm1zOXIwdW4zYml3M2JsMTk4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" alt="Hacker GIF" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZyZW81OWg1dnZmc2JjdHV2ajFjNm1zOXIwdW4zYml3M2JsMTk4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" alt="Hacker GIF" width="50%" />
 
 <img src="assets/hacker-banner.gif" alt="bxploit aka Bhavan RBN — Penetration Tester, Red Teamer, Cybersecurity Trainer" width="100%" />
 
