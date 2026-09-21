@@ -1,5 +1,12 @@
 <div align="center">
 
+
+
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/510fcf9f-9bbc-4a56-a898-84df82a1f585" />
+
+
+
+
 <img src="assets/hacker-banner.gif" alt="bxploit aka Bhavan RBN — Penetration Tester, Red Teamer, Cybersecurity Trainer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=3B82F6&background=00000000&center=true&vCenter=true&width=850&lines=root%40bxploit%3A%7E%23+whoami;Penetration+Tester+%7C+Red+Teamer;Cybersecurity+Trainer;eCPPTv3+%7C+CRTA+%7C+TryHackMe+Top+25%2B+Global" alt="typing animation" />
