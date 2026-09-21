@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/cyan-sparkles.gif" alt="Hacker Animation" width="100%" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/terminal.gif" alt="Hacker Terminal Animation" width="600" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=3B82F6&background=00000000&center=true&vCenter=true&width=850&lines=root%40bxploit%3A%7E%23+whoami;Penetration+Tester+%7C+Red+Teamer;Cybersecurity+Trainer;eCPPTv3+%7C+CRTA+%7C+TryHackMe+Top+25%2B+Global" alt="typing animation" />
 
@@ -31,6 +31,6 @@ I am **bxploit** (Bhavan RBN), a freelance penetration testing consultant and cy
 - **TryHackMe:** Ranked within the **Top 25+ globally** (representing the elite tier of cybersecurity practitioners).
 - **HackTheBox:** Master-level competitor and active participant in advanced CTF events.
 
-<h2><img src="/focus.svg" width="24" height="24" align="absmiddle" alt="" />&nbsp; Focus</h2>
+<h2><img src="assets/icons/focus.svg" width="24" height="24" align="absmiddle" alt="" />&nbsp; Focus</h2>
 
 Web application testing, network and Active Directory penetration testing, red team operations, cybercrime investigations, security training.
