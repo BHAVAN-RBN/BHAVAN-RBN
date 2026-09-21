@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/hacker-banner.gif" alt="bxploit aka Bhavan RBN — Penetration Tester, Red Team, Cybersecurity Trainer" width="100%" />
+<img src="assets/hacker-banner.gif" alt="bxploit aka Bhavan RBN — Penetration Tester, Red Teamer, Cybersecurity Trainer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=3B82F6&background=00000000&center=true&vCenter=true&width=760&lines=root%40bxploit%3A%7E%23+whoami;Penetration+Tester+%7C+Red+Team;Cybersecurity+Trainer;eCPPTv3+%7C+CRTA+%7C+TryHackMe+Top+25%2B+Global" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=3B82F6&background=00000000&center=true&vCenter=true&width=760&lines=root%40bxploit%3A%7E%23+whoami;Penetration+Tester+%7C+Red+Teamer;Cybersecurity+Trainer;eCPPTv3+%7C+CRTA+%7C+TryHackMe+Top+16+Global" alt="typing animation" />
 
 ![eCPPTv3](https://img.shields.io/badge/eCPPTv3-1d4ed8?style=flat-square&labelColor=0f172a)
 ![CRTA](https://img.shields.io/badge/CRTA-1d4ed8?style=flat-square&labelColor=0f172a)
