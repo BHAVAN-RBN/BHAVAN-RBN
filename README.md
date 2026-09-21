@@ -1,11 +1,6 @@
 <div align="center">
 
-
-
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/510fcf9f-9bbc-4a56-a898-84df82a1f585" />
-
-
-
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZyZW81OWg1dnZmc2JjdHV2ajFjNm1zOXIwdW4zYml3M2JsMTk4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" alt="Hacker GIF" width="100%" />
 
 <img src="assets/hacker-banner.gif" alt="bxploit aka Bhavan RBN — Penetration Tester, Red Teamer, Cybersecurity Trainer" width="100%" />
 
@@ -36,6 +31,6 @@ I am **bxploit** (Bhavan RBN), a freelance penetration testing consultant and cy
 - **TryHackMe:** Ranked within the **Top 25+ globally** (representing the elite tier of cybersecurity practitioners).
 - **HackTheBox:** Master-level competitor and active participant in advanced CTF events.
 
-<h2><img src="focus.svg" width="24" height="24" align="absmiddle" alt="" />&nbsp; Focus</h2>
+<h2><img src="assets/icons/focus.svg" width="24" height="24" align="absmiddle" alt="" />&nbsp; Focus</h2>
 
 Web application testing, network and Active Directory penetration testing, red team operations, security training.
