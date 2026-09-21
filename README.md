@@ -29,6 +29,6 @@ I am **bxploit** (Bhavan RBN), a freelance penetration testing consultant and cy
 - **TryHackMe:** Ranked within the **Top 25+ globally** (representing the elite tier of cybersecurity practitioners).
 - **HackTheBox:** Master-level competitor and active participant in advanced CTF events.
 
-<h2><img src="assets/icons/focus.svg" width="24" height="24" align="absmiddle" alt="" />&nbsp; Focus</h2>
+<h2><img src="focus.svg" width="24" height="24" align="absmiddle" alt="" />&nbsp; Focus</h2>
 
 Web application testing, network and Active Directory penetration testing, red team operations, security training.
