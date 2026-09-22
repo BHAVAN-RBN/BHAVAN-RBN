@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRzNWswOGZtNG5vNTl5bDZmMHQyYWM1Ynd1MjExc2M3cGRsdjFiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGo2HgcJHi4prFK/giphy.gif" width="500" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5lNjhrYnVyMW01Nmw1NmRyMWYyNGF0bmowYngxbXl5NXI5bjUzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="500" />
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/terminal.gif" alt="Hacker Terminal Animation" width="600" />
 
