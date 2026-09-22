@@ -1,9 +1,7 @@
 <div align="center">
 
 
-<p align="center">
-  <video src="https://github.com/BHAVAN-RBN/BHAVAN-RBN/raw/refs/heads/main/703ce7630c19b9f7287b082823cec26a_t1.mp4" width="100%" autoplay loop muted playsinline></video>
-</p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRzNWswOGZtNG5vNTl5bDZmMHQyYWM1Ynd1MjExc2M3cGRsdjFiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGo2HgcJHi4prFK/giphy.gif" width="500" />
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/terminal.gif" alt="Hacker Terminal Animation" width="600" />
 
