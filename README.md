@@ -1,5 +1,10 @@
 <div align="center">
 
+
+<p align="center">
+  <video src="https://github.com/BHAVAN-RBN/BHAVAN-RBN/raw/refs/heads/main/703ce7630c19b9f7287b082823cec26a_t1.mp4" width="100%" autoplay loop muted playsinline></video>
+</p>
+
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/terminal.gif" alt="Hacker Terminal Animation" width="600" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=3B82F6&background=00000000&center=true&vCenter=true&width=850&lines=root%40bxploit%3A%7E%23+whoami;Penetration+Tester+%7C+Red+Teamer;Cybersecurity+Trainer;eCPPTv3+%7C+CRTA+%7C+TryHackMe+Top+25%2B+Global" alt="typing animation" />
